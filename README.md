@@ -138,7 +138,7 @@ Catatan: Nama service PHP-FPM bisa berbeda (php7.4-fpm, php8.1-fpm, php-fpm). Gu
 5. Akses Aplikasi
 Buka browser:
 ```
-http://IP-SERVER/
+http://IP-SERVER/mikhmon-ros7
 ```
 
 ---
