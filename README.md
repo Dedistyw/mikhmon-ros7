@@ -140,7 +140,8 @@ Buka browser:
 ```
 http://IP-SERVER/mikhmon-ros7
 ```
-
+akses dengan mikhmon - 1234
+-
 ---
 
 🟡 INSTALASI DENGAN DOCKER & DOCKER COMPOSE
